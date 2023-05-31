@@ -1,0 +1,6 @@
+C:\SOLO GINO\INCOS 2023\PROGRAMACION 2\HERENCIA 11-05-2023\Herencia\TareaHerencia\TareaHerencia\bin\Debug\TareaHerencia.exe.config
+C:\SOLO GINO\INCOS 2023\PROGRAMACION 2\HERENCIA 11-05-2023\Herencia\TareaHerencia\TareaHerencia\bin\Debug\TareaHerencia.exe
+C:\SOLO GINO\INCOS 2023\PROGRAMACION 2\HERENCIA 11-05-2023\Herencia\TareaHerencia\TareaHerencia\bin\Debug\TareaHerencia.pdb
+C:\SOLO GINO\INCOS 2023\PROGRAMACION 2\HERENCIA 11-05-2023\Herencia\TareaHerencia\TareaHerencia\obj\Debug\TareaHerencia.exe
+C:\SOLO GINO\INCOS 2023\PROGRAMACION 2\HERENCIA 11-05-2023\Herencia\TareaHerencia\TareaHerencia\obj\Debug\TareaHerencia.pdb
+C:\SOLO GINO\INCOS 2023\PROGRAMACION 2\HERENCIA 11-05-2023\Herencia\TareaHerencia\TareaHerencia\obj\Debug\TareaHerencia.csprojResolveAssemblyReference.cache
